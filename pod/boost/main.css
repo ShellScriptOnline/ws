@@ -1,0 +1,72 @@
+.sg1 {
+position: relative;
+ transition: 0.5s;
+ }
+ 
+ .sg1:hover {
+    transform: scale(1.03);
+ }
+ 
+ 
+ .sg2 {
+position: relative;
+ transition: 0.5s;
+ }
+ 
+ .sg2:hover {
+    transform: scale(1.03);
+ }
+ 
+ 
+ .sg3 {
+position: relative;
+ transition: 0.5s;
+ }
+ 
+ .sg3:hover {
+    transform: scale(1.03);
+ }
+ 
+ 
+  body {
+ background: #c7b39b url(back.png);
+ }
+ 
+ 
+  .sg0l {
+color: #04ff00;
+font-family:Agency FB;
+font-size: 60pt;
+ }
+ 
+   .sg02 {
+color: #ff0000;
+font-family:Agency FB;
+font-size: 60pt;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   .sg3 {
+color: #04ff00;
+font-family:Agency FB;
+font-size: 60pt;
+ }
+ 
+   .sg3 {
+color: #001aff;
+font-family:Agency FB;
+font-size: 60pt;
+ }
+ 
+ 
+
+ 
+
+ 
+ 
